@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+Completed flutter tutorial project.
 
 ## Getting Started
 
